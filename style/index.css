@@ -1,0 +1,42 @@
+:root 
+{
+	--colowhite: #FFFFFF;
+	--colorblack: #2D3436;
+	--colorgraydark: #5C5C5C;
+	--colorgray: #858585;
+	--colorgraylight:  #ADADAD;
+	--colorgraysoft: #C2C2C2;
+
+	--colorbluedark: #0984E3;
+	--colorbluelight: #74B9FF;
+
+	--colorgreendark: #00B894;
+	--colorgreenlight: #55EFC4;
+
+	--coloryellowdark: #FDCB6E;
+	--coloryellowlight: #FFEAA7;
+
+	--colordarkred: #D63031;
+	--colorlightred: #FF7675;
+
+	--colorpurpledark: #6C5CE7;
+	--colorpurplelight: #A29BFE;
+
+	--colorpink: #E84393;
+
+	--font-family-b: InterB, sans-serif;
+	--font-family-m: InterM, sans-serif;
+	--font-family-r: InterR, sans-serif;
+	--font-family-l: InterL, sans-serif;
+
+
+}
+
+body
+{
+	margin: 0;
+}
+body *
+{
+	box-sizing: border-box;
+}
